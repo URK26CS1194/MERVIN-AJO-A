@@ -1,1 +1,1 @@
-# MERVIN-AJO-A
+# practicum-2
